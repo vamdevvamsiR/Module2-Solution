@@ -1,1 +1,34 @@
-border
+p{
+	border: 1px solid black;
+	width: 20px;
+	background-color: red;
+	}
+	
+#p1{
+	background-color: blue;
+	top: 0;
+	left: 30px;
+	position: relative;
+}
+#p2{
+	background-color: lighybrown;
+}
+#p3{
+	background-color: yellow;
+}
+div{
+	widh: 50px;
+	height: 90x;
+	border: 1px solid black;
+	background-color: grey;
+	}
+
+#c1{background-color: grey;
+
+}
+#c2{background-color: grey;
+
+}
+#c3{
+background-color: grey;
+}
